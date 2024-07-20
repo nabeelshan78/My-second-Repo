@@ -1,2 +1,3 @@
 # My-second-Repo
-This is second my repository
+This is my second repository.
+Author -> Nabeel Shan
